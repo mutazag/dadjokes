@@ -1,0 +1,11 @@
+id,name,price,description,stock,image
+1,Ninja Owl,10.1,"Stealthy and quick, this owl is ready to shop!",30,/products/1.jpg
+2,Disco Lion,10.1,Get ready to dance with this groovy lion!,20,/products/2.jpg
+3,Shopping Puppy,10.1,Your adorable shopping buddy is here!,40,/products/3.jpg
+4,Basketball Bull,10.1,Dribbling deals in the supermarket!,50,/products/4.jpg
+5,Shopper Cat,10.1,Shop 'til you drop with this feline friend!,23,/products/5.jpg
+6,Pirate Parrot,10.1,"Avast, ye matey! Sail the supermarket seas!",44,/products/6.jpg
+7,Koala King,10.1,The king of smooth shopping!,21,/products/7.jpg
+8,Savings Kangaroo,10.1,Hop to incredible savings!,45,/products/8.jpg
+9,Explorer Elephant,10.1,Safari through the supermarket!,65,/products/9.jpg
+10,Grocery Giraffe,10.1,Reach high shelves and discounts!,5,/products/10.jpg

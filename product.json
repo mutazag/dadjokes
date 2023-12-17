@@ -1,0 +1,72 @@
+[
+    {
+      "id": "1",
+      "name": "Ninja Owl",
+      "price": 10.1,
+      "description": "Stealthy and quick, this owl is ready to shop!",
+      "stock": 30,
+      "image": "/products/1.jpg"},
+    {
+      "id": "2",
+      "name": "Disco Lion",
+      "price": 10.1,
+      "description": "Get ready to dance with this groovy lion!",
+      "stock": 20,
+      "image": "/products/2.jpg"},
+    {
+      "id": "3",
+      "name": "Shopping Puppy",
+      "price": 10.1,
+      "description": "Your adorable shopping buddy is here!",
+      "stock": 40,
+      "image": "/products/3.jpg"},
+    {
+      "id": "4",
+      "name": "Basketball Bull",
+      "price": 10.1,
+      "description": "Dribbling deals in the supermarket!",
+      "stock": 50,
+      "image": "/products/4.jpg"},
+    {
+      "id": "5",
+      "name": "Shopper Cat",
+      "price": 10.1,
+      "description": "Shop 'til you drop with this feline friend!",
+      "stock": 23,
+      "image": "/products/5.jpg"},
+    {
+      "id": "6",
+      "name": "Pirate Parrot",
+      "price": 10.1,
+      "description": "Avast, ye matey! Sail the supermarket seas!",
+      "stock": 44,
+      "image": "/products/6.jpg"},
+    {
+      "id": "7",
+      "name": "Koala King",
+      "price": 10.1,
+      "description": "The king of smooth shopping!",
+      "stock": 21,
+      "image": "/products/7.jpg"},
+    {
+      "id": "8",
+      "name": "Savings Kangaroo",
+      "price": 10.1,
+      "description": "Hop to incredible savings!",
+      "stock": 45,
+      "image": "/products/8.jpg"},
+    {
+      "id": "9",
+      "name": "Explorer Elephant",
+      "price": 10.1,
+      "description": "Safari through the supermarket!",
+      "stock": 65,
+      "image": "/products/9.jpg"},
+    {
+      "id": "10",
+      "name": "Grocery Giraffe",
+      "price": 10.1,
+      "description": "Reach high shelves and discounts!",
+      "stock": 5,
+      "image": "/products/10.jpg"}
+  ]
