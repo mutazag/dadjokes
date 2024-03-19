@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 api_key = os.getenv('API_KEY')
 url = os.getenv('API_URL')
+display_deployment = os.getenv('DISPLAY_DEPLOYMENT_INFO', 'True') == 'True'
 
 
 def allowSelfSignedHttps(allowed):
@@ -59,7 +60,7 @@ def get_joke(topic):
 
         result = response.read()
         print(response.headers['azureml-model-deployment'])
-        deployment = response.headers['azureml-model-deployment']
+        deployment = response.headers['azureml-model-deployment'] if display_deployment else ''
         print('\n')
         # Assuming `result` contains the JSON response
         response_dict = json.loads(result)

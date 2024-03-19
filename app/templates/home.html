@@ -93,7 +93,9 @@
 
 <!-- <img src="{{ url_for('static', filename='background.png') }}" alt="Logo"> -->
 <br/>
-<small class="text-muted">{{ deployment }}</small>
+{% if deployment %}
+    <small class="text-muted">{{ deployment }}</small>
+{% endif %}
 
 </body>
 </html>
